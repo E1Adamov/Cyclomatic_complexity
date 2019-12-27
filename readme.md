@@ -1,13 +1,13 @@
-##Description
+## Description
 Analyzer for cyclomatic complexity. Can work with C++, C#, Python.
 Outputs the report to STDOUT.
-##Setup
+
+## Setup
 Use setup.py to install the dependencies:
 
     python3 setup.py install
 
-
-##Use
+## Use
 Use cyclomatic_complexity.py to analyze source code files and generate a json report.
 
 - #### Analyze path
