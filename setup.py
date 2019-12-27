@@ -1,3 +1,5 @@
+#!python3
+
 from pip._internal.req import parse_requirements
 from setuptools import setup, find_packages
 
